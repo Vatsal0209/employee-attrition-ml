@@ -18,6 +18,6 @@ Compared three models - Logistic Regression, k-NN and SVC
 Best Model: ✅ Logistic Regression – Offers the best trade-off between accuracy and interpretability for HR teams.
 
 📜 Files in this Repo
-📌 employee_attrition_report.pdf → Final report with dataset insights, model training and evaluation.
-📌 dataset.csv → Cleaned dataset used for training models.
-📌 employee_attrition.ipynb → Jupyter Notebook with data preprocessing and model building.
+1. employee_attrition_report.pdf → Final report with dataset insights, model training and evaluation.
+2. dataset.csv → Cleaned dataset used for training models.
+3. employee_attrition.ipynb → Jupyter Notebook with data preprocessing and model building.
